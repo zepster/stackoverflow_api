@@ -1,0 +1,13 @@
+.question {}
+
+.question .ant-collapse-header {
+  padding: 0px !important;
+}
+
+.question .ant-collapse-content {
+  text-align: left;
+}
+
+.question .ant-card-body {
+  text-align: center;
+}

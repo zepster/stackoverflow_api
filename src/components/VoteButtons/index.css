@@ -1,0 +1,10 @@
+.vote-button {
+  display: inline-block;
+}
+
+.vote-button .vote-button--group {
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    margin: 0px;
+}
